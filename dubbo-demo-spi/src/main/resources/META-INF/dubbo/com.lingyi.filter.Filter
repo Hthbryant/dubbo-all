@@ -1,0 +1,4 @@
+cache=com.lingyi.filter.impl.CacheFilter
+log=com.lingyi.filter.impl.LogFilter
+consumer=com.lingyi.filter.impl.ConsumerFilter
+provider=com.lingyi.filter.impl.ProviderFilter

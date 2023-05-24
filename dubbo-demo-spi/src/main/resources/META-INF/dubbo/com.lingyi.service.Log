@@ -1,0 +1,2 @@
+log4j=com.lingyi.service.Impl.Log4j
+logback=com.lingyi.service.Impl.Logback

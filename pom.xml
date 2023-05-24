@@ -12,6 +12,7 @@
     <module>dubbo-basic-provider</module>
     <module>dubbo-basic-consumer</module>
     <module>dubbo-hello-interface</module>
+    <module>dubbo-demo-spi</module>
   </modules>
   <packaging>pom</packaging>
 

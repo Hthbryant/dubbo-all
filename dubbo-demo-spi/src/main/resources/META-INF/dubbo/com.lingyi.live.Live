@@ -1,0 +1,3 @@
+mobile=com.lingyi.live.impl.MobileLive
+beauty=com.lingyi.wrapper.BeautyLiveWrapper
+shoulian=com.lingyi.wrapper.ShouLianLiveWrapper
